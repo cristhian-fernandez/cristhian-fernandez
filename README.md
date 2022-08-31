@@ -50,9 +50,8 @@ Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end, así mism
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-fernandez&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="cristhian-fernandez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhian-fernandez&theme=midnight-purple&show_icons=true&locale=en" alt="cristhian-fernandez" /></p>
-    
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">My Repos</h2>
-<a href = "https://github.com/cristhian-fernandez/cristhian-fernandez"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=cristhian-fernandez&repo=cristhian-fernandez&theme=midnight-purple" /></a> 
+## Connect with me:
+📧 cjfernandez29@gmail.com
     
 Credits: [cristhian-fernandez](https://github.com/cristhian-fernandez)
