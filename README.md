@@ -1,14 +1,9 @@
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 </div>  
-
-# <h1 align="center">Hola,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Soy  <a href="#">Cristhian<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
-<p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
-</p>
  
-<h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
-<h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
+<h1 align="center">¡Hey 👋! Soy Cristhian 👩🏻‍💻</h1>
+<h3 align="center">Lima, Perú🌎</h3><br/> 
 
 Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
 Soy muy curioso y autodidacta me encanta el poder aprender de personas y poder compartir lo que se con otras personas mas.
