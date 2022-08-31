@@ -5,15 +5,12 @@
 <h1 align="center">¡Hey 👋! Soy Cristhian 👩🏻‍💻</h1>
 <h3 align="center">Lima, Perú🌎</h3><br/> 
 
-Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
-Soy muy curioso y autodidacta me encanta el poder aprender de personas y poder compartir lo que se con otras personas mas.
+Soy Ingeniero de Sistemas titulado y colegiado, con más de 5 años de experiencia en la programación, actualmente soy Full Stack Developer con una gran capacidad de desarrollar proyectos web en un ambiente de equipo colaborativo.👩🏽‍💻
 
-Anteriormente me desempeñaba como técnico en mantenimiento y reparación de computadoras, pero quise dar el salto cuando conocí el Desarrollo de Software. La sola idea de poder crear cosas de la nada, solo con mis manos y líneas de código me hizo enamorar de esta profesión.
+👨‍🎓 Soy una persona autodidacta, me gusta aprender cosas nuevas constantemente, me gusta mucho la organización, el trabajo en equipo y el crecimiento personal y profesional que se genera en el mismo. 💪🏼
 
-Actualmente he desarrollado varios proyectos tanto para mi cursada en el Bootcamp soy Henry, como proyectos personales los cuales he ido haciendo para mejorar mis conocimientos.
-
-Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional como personalmente.
- 
+💻 Me gradué del bootcamp Soy Henry, donde me formé como Full-Stack Developer y el cual consta de un curso intensivo con más de 800hs de práctica y aprendizaje.
+Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end, así mismo manejo muy bien SQL y constantemente aprendo cosas nuevas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastianalzate&label=Profile%20views&color=0e75b6&style=flat" alt="bastianalzate" /> </p>
 
