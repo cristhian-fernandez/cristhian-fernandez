@@ -7,7 +7,8 @@
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
  
-<h3 align="center">Full Stack Developer con enfoque al Frontend soy de Colombia</h3>
+<h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
+<h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
 Soy muy curioso y autodidacta me encanta el poder aprender de personas y poder compartir lo que se con otras personas mas.
