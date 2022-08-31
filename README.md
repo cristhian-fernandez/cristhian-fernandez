@@ -22,9 +22,9 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bastianalzate/)
 
 <h3 align="left">Languages and Tools:</h3>
-![image](https://user-images.githubusercontent.com/102884389/187641003-0db04efa-f354-42e0-81d0-fb700be98149.png)
-![image](https://user-images.githubusercontent.com/102884389/187641087-0a8558ca-20b9-43fb-9ada-391c61c5be83.png)
-![image](https://user-images.githubusercontent.com/102884389/187641194-d452785a-7ea8-44cc-898d-aab87d04578e.png)
+(https://user-images.githubusercontent.com/102884389/187641003-0db04efa-f354-42e0-81d0-fb700be98149.png)
+(https://user-images.githubusercontent.com/102884389/187641087-0a8558ca-20b9-43fb-9ada-391c61c5be83.png)
+(https://user-images.githubusercontent.com/102884389/187641194-d452785a-7ea8-44cc-898d-aab87d04578e.png)
 
 
 # 📊 GitHub Stats:
