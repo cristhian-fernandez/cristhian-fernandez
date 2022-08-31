@@ -15,19 +15,31 @@ Como Full-Stack sé desenvolverme tanto en Front-end como en Back-end, así mism
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastianalzate&label=Profile%20views&color=0e75b6&style=flat" alt="bastianalzate" /> </p>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](#)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bastianalzate)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bastianalzate/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cristhian-fernandez)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-fernandez-cumbia/)
 
 <h3 align="left">Languages and Tools:</h3>
-(https://user-images.githubusercontent.com/102884389/187641003-0db04efa-f354-42e0-81d0-fb700be98149.png)
-(https://user-images.githubusercontent.com/102884389/187641087-0a8558ca-20b9-43fb-9ada-391c61c5be83.png)
-(https://user-images.githubusercontent.com/102884389/187641194-d452785a-7ea8-44cc-898d-aab87d04578e.png)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cristhian-fernandez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cristhian-fernandez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-fernandez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style='display:flex'>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg"/>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg"/>
+<img src="https://img.shields.io/badge/NPM-%23000000.svg"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg"/>
+<img src="https://img.shields.io/badge/Socket.io-black"/>
+<img src="https://img.shields.io/badge/chart.js-F5788D.svg"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg"/>
+<img src="https://img.shields.io/badge/JWT-black"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F"/>
+<img src="https://img.shields.io/badge/Pug-FFF"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37"/>
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg"/>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
